@@ -1,0 +1,2 @@
+*.js linguist-language=javaScript
+*.java linguist-language=java
