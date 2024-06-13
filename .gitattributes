@@ -1,3 +1,4 @@
 *.js linguist-language=javaScript
 *.java linguist-language=javaScript
 *.md linguist-language=javaScript
+*.sql linguist-language=javaScript
